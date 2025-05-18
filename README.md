@@ -31,8 +31,8 @@ This is the screenshot of the page.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/clipboard-landing-page-W-8mXqzekL)
-- Live Site URL: [Add live site URL here](https://clipboard-landing-page-six-ivory.vercel.app/)
+- Solution URL: [Click here!](https://www.frontendmentor.io/solutions/clipboard-landing-page-W-8mXqzekL)
+- Live Site URL: [Click here!](https://clipboard-landing-page-six-ivory.vercel.app/)
 
 ## My process
 
