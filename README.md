@@ -55,7 +55,7 @@ The buttons on the page has to be given a soft and small 3D look. And the webpag
 
 ## Author
 
-- Website - [Amit Waghmare](https://www.your-site.com)
+- Website - [Clipboard Page](https://clipboard-landing-page-six-ivory.vercel.app/)
 - Frontend Mentor - [@waghmare-amit](https://www.frontendmentor.io/profile/waghmare-amit)
 - Twitter - [@waghmareamit24](https://www.twitter.com/waghmareamit24)
 
