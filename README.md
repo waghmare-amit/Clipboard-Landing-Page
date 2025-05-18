@@ -12,11 +12,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -55,7 +51,7 @@ I learnt some new things while making this webpage - making a custom logo using 
 
 ### Continued development
 
-The buttons on the page has to be given a soft and small 3D look.
+The buttons on the page has to be given a soft and small 3D look. And the webpage is not responsive, that will be done.
 
 ## Author
 
